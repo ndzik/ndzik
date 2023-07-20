@@ -20,6 +20,9 @@ Time is of value, so let's get to the point:
 
 ## Experience
 
+### Work
+* Core Dev @ PolyCrypt GmbH (formerly Perun Network) since June, 2020
+
 ### Studies
 * Studied physics at Goethe University Frankfurt. Mind you, I did not finish the degree, because I grew tired of experimental physics and I was only invested in theoretical physics up to the fifth semester before deciding to switch to something that aligned more with my interests.
 * Studied computer science at TU Darmstadt. Only did the B.Sc. I started working at PolyCrypt GmbH before I finished my studies and working in a rapidly evolving field and being allowed to contribute to cutting edge technology felt way more gratifying than to chase academia.
