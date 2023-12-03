@@ -21,7 +21,7 @@ Time is of value, so let's get to the point:
 ## Experience
 
 ### Work
-* Core Dev @ PolyCrypt GmbH (formerly Perun Network) since June, 2020
+* Core Dev @ PolyCrypt GmbH (formerly Perun Network) June 15, 2020 - November 30, 2023
 
 ### Studies
 * Studied physics at Goethe University Frankfurt. Mind you, I did not finish the degree, because I grew tired of experimental physics and I was only invested in theoretical physics up to the fifth semester before deciding to switch to something that aligned more with my interests.
