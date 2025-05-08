@@ -37,8 +37,8 @@ Since I am a software engineer and coder first and foremost you might be interes
 | Haskell     | 8               |
 | TypeScript  | 7               |
 | Go          | 7               |
-| Rust        | 6               |
-| C           | 6               |
+| Rust        | 7               |
+| C           | 8               |
 | C++         | 6               |
 
 To help interpret the expertise level:
